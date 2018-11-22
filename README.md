@@ -14,7 +14,7 @@ José: documentação e diagramas,
 Vinicius: diagramas e interface com o usuário
 
 Tecnologias:
-Netbeans, PHP, HTML
+Netbeans, JSP, HTML
 
 Organização:
 
@@ -22,10 +22,13 @@ Model:
 Abstract Factory,
 Produto,
 Cliente,
-Pedido
+Pedido,
+ProdutoFactory,
+ClienteFactory
 
 View:
 cadastroUsuario,
+listaCliente,
 listaVoos,
 telaInicial,
 telaPedido
